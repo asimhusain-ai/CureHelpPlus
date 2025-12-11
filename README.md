@@ -23,7 +23,9 @@ CureHelp+ is an advanced healthcare analytics platform that leverages machine le
 
 ## Deployment 
 **Live** - https://www.curehelplus.me
+
 **Azure Live** - https://curehelplus.blackpebble-3708035a.centralindia.azurecontainerapps.io
+
 **Docker Image** - https://hub.docker.com/r/asimhusain/curehelplus
 
 ---
